@@ -2,7 +2,8 @@
 # Self-Organizing Map (SOM) for Fashion MNIST Dataset
 # by Sara Afshar
 
-This repository contains an implementation of a Self-Organizing Map (SOM) for the Fashion MNIST dataset. The SOM is used to cluster and visualize the patterns in the dataset.
+This project implements a Self-Organizing Map (SOM) from scratch for clustering and visualizing patterns in the Fashion MNIST dataset. The manual implementation demonstrates the step-by-step training process of SOM without relying on external libraries. It showcases how SOM can be used to organize and interpret high-dimensional data. The visualization of the trained SOM illustrates how different fashion items are grouped together based on their features. This project is ideal for those interested in understanding the inner workings of SOM and neural network-based clustering techniques.
+
 
 ## Project Structure
 
