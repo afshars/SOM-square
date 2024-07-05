@@ -1,6 +1,6 @@
 # SOM-square
 # Self-Organizing Map (SOM) for Fashion MNIST Dataset
-# by Sarah Afshar
+# by Sara Afshar
 
 This repository contains an implementation of a Self-Organizing Map (SOM) for the Fashion MNIST dataset. The SOM is used to cluster and visualize the patterns in the dataset.
 
